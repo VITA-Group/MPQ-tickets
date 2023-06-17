@@ -1,3 +1,6 @@
+Code for CVPR workshop ECV 2023 paper:
+[Accelerable Lottery Tickets with Mixed-Precision Quantization](https://openaccess.thecvf.com/content/CVPR2023W/ECV/papers/Li_Accelerable_Lottery_Tickets_With_the_Mixed-Precision_Quantization_CVPRW_2023_paper.pdf)
+
 ## 📦 Run this project
 Ensure that `cuda` is supported by your machine. Try `assert torch.cuda.is_available() == True`
 
